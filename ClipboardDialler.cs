@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Windows.Forms;
 using System;
+using System.Windows.Controls;
 
 class ClipboardDialler
 {
